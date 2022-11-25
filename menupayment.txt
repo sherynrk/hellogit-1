@@ -1,2 +1,5 @@
 test
 tambahtest
+
+function branch2()
+tst function branch2
