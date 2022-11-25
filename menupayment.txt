@@ -3,3 +3,5 @@ tambahtest
 
 function branch1()
 tambahan dr branch1
+function branch2()
+tst function branch2
